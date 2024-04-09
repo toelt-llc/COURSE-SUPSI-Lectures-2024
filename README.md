@@ -15,7 +15,6 @@ In this lecture we will look first at  Jupyter notebooks. Those are the common t
 2. Keras and TensorFlow - An Introduction (Folder 1)
 3. Hands-on session (Folder 1)
 
-The hands-on session will be based mostly on one [Jupyter Notebook](https://colab.research.google.com/github/toelt-llc/COURSE-SUPSI-Lectures-2024/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb).
 
 ## Additional and Bonus Material
 
